@@ -172,3 +172,44 @@ make documentation readable
 - users shold hire things you contrl for most faulures
 - make error messages explain how to fix the problem
 - better yet, solve the problem for the user
+
+A Developers Approach to Documentation: From Passive to Dynamic
+===============================================================
+English is ambiguous (API = simple vs. consumer language = complex)
+Pollyanna principle: machines should work. People should think.
+
+Four types of documentation: separation of duties
+-------------------------------------------------
+- Reference (low level, dictionary-esque)
+- Examples (tutorials, walk you through use case)
+- Guides (topical, higher level 'why you want to use this', point is to get people to buy into mindset)
+- Support (important, some stuff is inconsistent. Best online documentation has a huge support component)
+
+Mental model for division of labor:
+-----------------------------------
+- Generated: reference, examples (in different languages)
+- Humans: examples (for humans to curate), guides 
+-   A snippet of code without context is just a snippet of code
+- Community: guides, support
+
+Problem with Documentation
+--------------------------
+O'Reilly-ification of documentation: problem is that everyone (novices to devs) get the same guide
+Has to cover all use cases and skill levels
+once you know stuff about the user, you can start tailoring documentation to them
+
+MVC: minimum viable call
+------------------------
+Get people doing an action as quickly as humanly possible
+Ex: onboarding flow (know language, etc), installation, MVC (first call to get them to do something)
+After MVC: congrats, everything is set up. Next, let's... blah blah blah
+
+Things taht don't seem like doc but are
+----------------------------------------
+touches all parts of an API
+- Interactive playgrounds
+- Error Messages (ex: angular JS error takes you to the module error online and tells you what's up)
+- API SDKs
+- Support section (his company vs. stack overflow). Biggest threat to documentation is support. Not someething to fight but something to bring in. 
+
+
