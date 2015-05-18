@@ -103,3 +103,72 @@ Scenario-baased Docs: Best Practices
 - Don't waste time explaining what goes on under the hood unless you need to
 - Use video strategically and as a supplement; keep it short! Customers should NOT need to watch video to know how to do a thing
 - have fun with it
+- 
+How to write documentation for users that don't read
+====================================================
+Why people don't read your documentation
+-----------------------------------------
+bc:
+-no one reads aything on the internet
+- Users scan in F-shaped pattern (lots of text is just ignored)
+- meaningful text and images
+- links, bullets
+- shapes more important than text
+
+transgresssion: fixed with text
+solution: use markdown, bold, headers
+
+People tend to skip over things that look like ads
+transgression: many fixations per line
+text is 65-90 characters wide = lots of fixations on left side
+
+transgression: search failure
+link to next page is same size as small stuff - make content all in one page, indexable
+
+observance: breaking up content
+short, big headings, buttom is expandable content (hidden by default), ordered (step 1 headings)
+
+Users are awful at searching!
+-----------------------------
+Users try 1 query and give up
+Stackoverflow used to close duplicate questions - theres a benefit to having multiple subtle variants of a question as people tend to ask and search using completely different word, and the better our coverage, the better odds people can find the answer they're looking for
+
+Helper Libraries, Client SDKs, API SDKs, library bindings, language-specific wrappers
+Look through support queries, look through google analytics on what terms they're using
+solution: add verbs
+
+No one reads anything above/below code snippets
+everyone just does copy/paste
+
+Sometimes copy and paste can go a little too far ($ gem install rails) - people pasted in $
+separating out input vs. output - but this is tricky
+
+Every user failure is a potential job to be done
+
+Docs behind a wall! NOOOOOOOOOO
+Downoad pdfs to get access to docs = 50% of your traffic you're just throwing away
+if you're big enough, wikihow will steal your traffic!
+
+Validation as documentation
+bad: confusing error messages
+good: did you mean? etc
+You can fix these confusing error messages!
+Strings are easy to find/change - good way to get started with code base
+
+make documentation readable
+----------------------------
+- break up text often
+- first 3-5 wwords of every paragraph are most important
+- 6590 good
+- meta description should match content
+- URL should describe content
+- every page = landing page
+- your documentation should always win
+- etc etc - read the Google Guide
+- Why your awesome docs aren't solving user problems
+--------------------------------------------------
+
+- look at your product from a user/task perspective
+- users shold hire things you contrl for most faulures
+- make error messages explain how to fix the problem
+- better yet, solve the problem for the user
