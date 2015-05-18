@@ -9,11 +9,6 @@ Initial job: question requirements
 
 gold nuggets: things to look out for (these are the things that are hard to find and take a lot of collaboration)
 
-tools
------
-video conferencing
-persistent chat
-
 API Design Review Board
 -----------------------
 In order to be exposed in API, a feature had to be approved by review board
@@ -24,9 +19,10 @@ Now cornerstone of API - where docs start
 2. Posts to chatter group
 3. Review (1x week) - 30 min for each feature, approve or rework
 
-What's great about the design review board: gives writer and tester chance to give input early on in design cycle (error codes).
-Makes tech writer's job easier; full seat at the table with devs & product owners to make API as easy as possible to learn.
-Testers and devs more living in code base; we advocate for external names and docs.
+What's great about the design review board: 
+- gives writer and tester chance to give input early on in design cycle (error codes). 
+- Makes tech writer's job easier; full seat at the table with devs & product owners to make API as easy as possible to learn.
+- Testers and devs more living in code base; we advocate for external names and docs.
 
 API Quality
 -----------
@@ -39,16 +35,16 @@ Simulating the real works
 Tech reviews! Just a starting place, lucky if you catch some mistakes, maybe a best practice.
 see who's interested in docs and thinking like a customer
 Code Samples - How do we get to them? collaborating with as many people as possible 
-Instead of saying ;what's the use case' saying 'why would a customer use this'? and zooming out until you have a persona in mind
+Instead of saying 'what's the use case' saying 'why would a customer use this'? and zooming out until you have a persona in mind
 
 Dogfooding: eating your own dogfood, using your own product before it gets released
 Blitzing: coordinated activity on a certain part of the code 
 
 Working in the Real World
 -------------------------
-direct exposure to customers of at least 2 hours every six weeks made a difference in UX
-See what has been answered - can it be linked to doc? 
-If content isn't there, file a doc bug
+- direct exposure to customers of at least 2 hours every six weeks made a difference in UX
+- See what has been answered - can it be linked to doc? 
+- If content isn't there, file a doc bug
 
 Let's Tell a Story: Scenario-based documentation
 ================================================
@@ -74,9 +70,7 @@ D&D Manuals = scenario-based docs
 - users embark on an epic journey
 - accomplsh anazing feates
 
-D&D lives and dies by how playable it is. Reviews for adventure "Hoard of the Dragon Queen"
-Adventure involves int oa series of 'go fight this, then this,"
-editing is terrible. maps have omissions, monsters listed as in 2 places at once
+D&D lives and dies by how playable it is. 
 
 Railroading: If you provide them w enough choices or heremy the appearance of enough choices, they don't even realize it's happening
 The trick is coming up with stories that are worth coming up with a railroad for
@@ -103,7 +97,7 @@ Scenario-baased Docs: Best Practices
 - Don't waste time explaining what goes on under the hood unless you need to
 - Use video strategically and as a supplement; keep it short! Customers should NOT need to watch video to know how to do a thing
 - have fun with it
-- 
+
 How to write documentation for users that don't read
 ====================================================
 Why people don't read your documentation
