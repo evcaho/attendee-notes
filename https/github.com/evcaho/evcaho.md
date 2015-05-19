@@ -274,3 +274,31 @@ Aptitudes: design, empathy, story, play, symphony, meaning
 question 1: what's one thing that brings meaning or purpose to you at work?
 question 2: what's one thing you'll take away from your experience at Write the Docs?
 
+#What Can Brownfield Do For You?
+Mo Nishiyama, Oregon Health and Sciences University
+
+Brownfield: land with hazardous materials
+
+Knowledge base lack of support = more calls to support staff, less search
+
+Progress: More pageviews for about 100 articles
+
+Used as frameworks: AP style, instutitional-specific style guide, institutional voice and tone guidelines, CMS systems
+
+changed from video tutorial to talk with tech writer on how and WHY to write articles (45 min, including presentation)
+
+Check your preferences at the door and use your soft skills: diplomacy, follow-through, communication, traverse silos, learn the customs
+
+WIIFM: What's in in for me?
+- understand their pain points
+- why it's useful and will help them!
+
+Lessons Learned
+- as tech writers: we are investigative reporters!
+- focus on business needs
+- don't get sucked up in individual departments (other people's problems & propaganda = OPPP)
+- acknowledge your weaknesses
+- beware of imposter syndrome (you ARE making a difference)
+- find your support group
+- always keep learning
+- take time to celebrate
