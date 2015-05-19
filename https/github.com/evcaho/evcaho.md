@@ -220,10 +220,38 @@ How to drive people away
 - If you don't make it clear what kind of help you need, people can't help you
 
 Ways to encourage contribution
-- strategy: streamline the path from interest to success
+- Strategy: streamline the path from interest to success
   - getting started: 3 simple tasks (grouped into categories of interest) then a list of pages that need that task done to them
 - Strategy: create invitations, not roadblocks
   - when you don't have something, ask for help (ex: array object page in Spanish, ask for help with translation! Page opens up translation editor so you don't have to juggle browser windows)
 - Strategy: expose what areas need help, in what ways
   - overview page with table to show which areas need contributions AND how to do it
 
+#Documentation, Disrupted: How Two Technical Writers Changed Google Engineering Culture, Built a Team, Made Powerful Friends, And Got Their Mojo Back
+Riona MacNamara, Google
+
+Happiness inspires productivity: oppositve of notion that we are happy when we're productive
+3 hapiness predictors in job: 
+- optimism (you will make a difference)
+- perception of stress (challenge or threat?)
+- connection (support, collaboration, influence)
+
+At google: All solutions were designed for writers, not engineers
+No time, no incentive, no culture (of docs)
+Documentation will never be part of eng culture until it's integrated into the codebase AND engineering workflow
+Did NOT want to create a new CMS to fragment things
+
+Enable engineers to find, create, and maintain docs by keeping docs in a simple portable format (markdown)
+
+g3doc: radically simple documentation
+drop in markdown and it just works!
+needed to move from engineer to engineer, not top-down
+
+We are focused on the user relentlessly (engineers)
+
+Don't lick the cookie and pass the place (governance belongs to contributors)
+
+What did we learn:
+- focus on the engineer and their space (take off writing hat)
+- momentum matters. Start small, iterate often
+- authority and influence don't derive from your resume but from action and impact
