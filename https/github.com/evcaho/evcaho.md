@@ -206,4 +206,24 @@ touches all parts of an API
 - API SDKs
 - Support section (his company vs. stack overflow). Biggest threat to documentation is support. Not someething to fight but something to bring in. 
 
+# Entry points and guide posts: helping contributors find their way
+Janet Swisher, community manager, mozilla
+
+Open documentation: anything someone outside your team can modify
+Contributor: anyone who modifies your doc who doesn't have "technical writer for x team" in their job description
+
+MDN: Seven writers, dozens of core contributors
+In 2012: launched wiki platform called Kuma
+
+How to drive people away
+- forgot about localization stakeholders (contribution levels went to nil)
+- If you don't make it clear what kind of help you need, people can't help you
+
+Ways to encourage contribution
+- strategy: streamline the path from interest to success
+  - getting started: 3 simple tasks (grouped into categories of interest) then a list of pages that need that task done to them
+- Strategy: create invitations, not roadblocks
+  - when you don't have something, ask for help (ex: array object page in Spanish, ask for help with translation! Page opens up translation editor so you don't have to juggle browser windows)
+- Strategy: expose what areas need help, in what ways
+  - overview page with table to show which areas need contributions AND how to do it
 
