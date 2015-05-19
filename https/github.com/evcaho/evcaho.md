@@ -302,3 +302,28 @@ Lessons Learned
 - find your support group
 - always keep learning
 - take time to celebrate
+
+#The Making of Writing Black Belts: How Martial Arts Philosophy Forged an Ad-Hoc Writing Team that Writes Great Docs
+Gaylin Walli 
+
+Rules
+- find a good teacher
+- be patient (it takes time to get good)
+  - employees immediately experience same frustrations as customers from the start (patience born of empathy)
+  - employees learn docs from the start. 
+- perservere
+  - it takes time AND consistency to be good at something
+  - Employees in cust. support group (w buddies) start tickets the first day. Actively point out at least 1 form of doc for each ticket
+- practice hard (breaking through your limitations)
+  - take on lots of challenges = first 2 weeks of employment, employees submit new guide or significant change to docs. Monitor incoming support tickets, monitor forums. In total = work in communication in the first month.
+  - Intense, constant focus = tackle complex topics very early on
+- Practice exactly what you want to perform
+  - immediate work, encourages employees to do more
+- still your mind
+  - find your pause button
+- make it your passion
+  - beginning employees are given a great deal of freedom to choose topics and documentation so they have fun and enjoy what they're writing about
+  - then naturally start seeking out ways to contribute
+- shout it from the rooftops
+  - find partners by shouting your passion from the rooftops!
+
