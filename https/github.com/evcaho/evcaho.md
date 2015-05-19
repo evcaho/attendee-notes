@@ -257,3 +257,20 @@ What did we learn:
 - authority and influence don't derive from your resume but from action and impact
 
 Authority and influence are ours for the taking if we focus on the user. 
+
+# Elevating the Hedgehog: Creativity in Tech Writing
+Tana Franko
+
+FOX = left brain: analysis, text
+HEDGEHOG =right brain: synthesis, context
+
+society is very logic-based (increasingly) ex: kindergarten (testing, all-day), child's play (unstructured, becoming more structured, adult-led)
+If your job is easily automated, not empathetic, then it's easy to be outsourced or computerized
+
+Conceptual age: integration and ELEVATING THE HEDGEHOG (making conscious use of creative skills)
+you are a designer: take time from reaction driven days to strengthen hedgehog brains
+Aptitudes: design, empathy, story, play, symphony, meaning
+
+question 1: what's one thing that brings meaning or purpose to you at work?
+question 2: what's one thing you'll take away from your experience at Write the Docs?
+
