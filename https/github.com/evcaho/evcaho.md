@@ -255,3 +255,5 @@ What did we learn:
 - focus on the engineer and their space (take off writing hat)
 - momentum matters. Start small, iterate often
 - authority and influence don't derive from your resume but from action and impact
+
+Authority and influence are ours for the taking if we focus on the user. 
